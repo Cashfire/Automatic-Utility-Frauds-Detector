@@ -1,4 +1,4 @@
-# Automatical-Utility-Frauds-Detector
+# Automatic-Utility-Frauds-Detector
 
 ## Data
 * Utility consumpation recorde
